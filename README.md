@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Riku's Page
 
 You can use the [editor on GitHub](https://github.com/Riku462/Riku462.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
