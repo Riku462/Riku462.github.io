@@ -1,8 +1,14 @@
 ### Welcome to Riku's Page
 
-You can use the [editor on GitHub](https://github.com/Riku462/Riku462.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Serves to remind me on what to do like a simple calendar of activities but going to the way I want.
+Priority:
+Science
+English
+MAPEH
+Computer
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Reasons: 
+1.) Formulas 2.) Stories 3.) Tasks based on performance 4.) easy subject, takes little time
 
 ### Markdown
 
