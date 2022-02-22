@@ -3,11 +3,11 @@
 Serves to remind me on what to do like a simple calendar of activities but going to the way I want.
 
 
-##Priority:
-Science
-English
-MAPEH
-Computer
+## Priority:
+-Science
+-English
+-MAPEH
+-Computer
 
 
 Reasons: 
