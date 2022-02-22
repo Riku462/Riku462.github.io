@@ -18,7 +18,7 @@ Reasons:
 
 
 ![focus](https://github.com/Riku462/Riku462.github.io/blob/main/Icon_Emoji_054_Ganyu_No_touching%2521.png)
-
+![you got this](https://github.com/Riku462/Riku462.github.io/blob/main/Icon_Emoji_070_Hu_Tao_I%2527ve_got_this%2521.png)
 
 ### Markdown
 
@@ -50,4 +50,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### What to focus on?
 
-#Science then COmputer then English then MAPEH
+# Science then COmputer then English then MAPEH
