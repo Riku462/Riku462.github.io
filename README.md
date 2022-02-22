@@ -17,7 +17,7 @@ Reasons:
 4. easy subject, takes little time
 
 
-!{focus}(https://github.com/Riku462/Riku462.github.io/blob/main/Icon_Emoji_054_Ganyu_No_touching%2521.png)
+![focus](https://github.com/Riku462/Riku462.github.io/blob/main/Icon_Emoji_054_Ganyu_No_touching%2521.png)
 
 
 ### Markdown
