@@ -17,7 +17,7 @@ Reasons:
 4. easy subject, takes little time
 
 
-!(Icon_Emoji_054_Ganyu_No_touching%21.png)
+!{focus}(Icon_Emoji_054_Ganyu_No_touching%21.png)
 
 
 ### Markdown
