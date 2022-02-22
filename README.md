@@ -4,10 +4,10 @@ Serves to remind me on what to do like a simple calendar of activities but going
 
 
 ## Priority:
--Science
--English
--MAPEH
--Computer
+- Science
+- English
+- MAPEH
+- Computer
 
 
 Reasons: 
