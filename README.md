@@ -16,6 +16,10 @@ Reasons:
 3. Tasks based on performance 
 4. easy subject, takes little time
 
+
+!(Icon_Emoji_054_Ganyu_No_touching%21.png)
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
