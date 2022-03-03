@@ -1,4 +1,4 @@
-### Welcome to Riku's Page
+### Welcome to Ali's Page
 
 Serves to remind me on what to do like a simple calendar of activities but going to the way I want.
 
@@ -20,8 +20,6 @@ Reasons:
 
 ![](https://i.pinimg.com/564x/d3/e9/b7/d3e9b753b5968a8009032b6af948249c.jpg)
 
-
-**Bold** and _Italic_ and `Code` text
 
 
 ### What to focus on?
