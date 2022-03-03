@@ -26,5 +26,13 @@ Reasons:
 
 ### What to focus on?
 
-# Portfolio for schoolwork?
+# Portfolio for schoolwork
+
+# Current Weeks Done
+
+- Music Arts -Week 3
+- Science -Week 3
+- English -Week 2
+- PE -Week 3
+- Computer- Week 2
 
