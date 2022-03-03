@@ -22,11 +22,11 @@ Reasons:
 
 
 
-### What to focus on?
+# Things to be done
 
-# Portfolio for schoolwork
+## Portfolio for schoolwork
 
-# Current Weeks Done
+## Current Weeks Done
 
 - Music Arts - Week 3
 - Science - Week 3
