@@ -30,9 +30,9 @@ Reasons:
 
 # Current Weeks Done
 
-- Music Arts -Week 3
-- Science -Week 3
-- English -Week 2
-- PE -Week 3
-- Computer- Week 2
+- Music Arts - Week 3
+- Science - Week 3
+- English - Week 2
+- PE - Week 3
+- Computer - Week 2
 
